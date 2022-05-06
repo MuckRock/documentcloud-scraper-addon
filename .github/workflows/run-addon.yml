@@ -1,0 +1,20 @@
+
+name: Run Add-On
+on:
+  workflow_dispatch:
+  schedule:
+    # Run at 22 minutes past the hour, every hour, every day
+    - cron:  "22 * * * *"
+
+env:
+  SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+
+jobs:
+  Run-Add-On:
+    uses: Muckrock/documentcloud-addon-workflows/.github/workflows/run-addon.yml@v1
+    with:
+      git-commit: true
+      timeout: 30
+    secrets:
+      dc_username: ${{ secrets.DC_USERNAME }}
+      dc_password: ${{ secrets.DC_PASSWORD }}

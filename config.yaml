@@ -1,0 +1,40 @@
+title: Scraper
+description: >-
+  This add-on will scrape and optionally crawl a given site for documents to upload
+  to DocumentCloud.  It can also alert you of given keywords appearing in those
+  documents.
+type: object
+properties:
+  site:
+    type: string
+    format: uri
+    description: The URL of the site to start scraping
+    default: https://www.ssa.gov/foia/readingroom.html
+  project:
+    type: number
+    description: >-
+      The DocumentCloud project ID of the project the documents should be uploaded in to
+    default: 207338
+  keywords:
+    type: array
+    items:
+      type: string
+    description: Keywords to search and notify on
+    default:
+      - court
+      - foia
+  filetypes:
+    type: array
+    items:
+      type: string
+    description: File extensions to be uploaded to DocumentCloud
+    default: [".pdf", ".docx", ".xlsx", ".pptx", ".doc", ".xls", ".ppt"]
+  crawl_depth:
+    type: number
+    description: How many pages away from the first site to scrape from
+    default: 1
+  dry_run:
+    type: boolean
+    description: Do not upload any documents or store any scraping data
+    default: false
+    

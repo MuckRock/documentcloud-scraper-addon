@@ -1,0 +1,3874 @@
+{
+  "http://oig.ssa.gov/audits-and-investigations/audit-reports/all": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=utf-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://oig.ssa.gov/audits-and-investigations/investigations": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=utf-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://oig.ssa.gov/newsroom/congressional-testimony": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=utf-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://oig.ssa.gov/newsroom/news-release": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=utf-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://oig.ssa.gov/newsroom/performance-reports": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=utf-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://oig.ssa.gov/newsroom/semiannual-reports": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=utf-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://oig.ssa.gov/report-fraud-waste-or-abuse": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=utf-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://policy.ssa.gov/poms.nsf/aboutpoms": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=US-ASCII"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://thomas.loc.gov/": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.archives.gov/federal_register/index.html": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=utf-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.archives.gov/ogis/": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=utf-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.socialsecurity.gov/OACT/": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.socialsecurity.gov/OACT/STATS/": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.socialsecurity.gov/OACT/TR/": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.socialsecurity.gov/OP_Home/cfr20/401/401-0000.htm": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.socialsecurity.gov/OP_Home/cfr20/402/402-0000.htm": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.socialsecurity.gov/OP_Home/cfr20/403/403-0000.htm": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.socialsecurity.gov/OP_Home/cfr20/cfrdoc.htm": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.socialsecurity.gov/OP_Home/hallex/hallex.html": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.socialsecurity.gov/OP_Home/rulings/rulings.html": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.socialsecurity.gov/OP_Home/ssact/comp-ssa.htm": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.socialsecurity.gov/aboutus/": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.socialsecurity.gov/appeals/appeals_process.html": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.socialsecurity.gov/appeals/best_practices.html": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.socialsecurity.gov/appeals/court_process.html": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.socialsecurity.gov/appeals/hearing_process.html": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.socialsecurity.gov/appeals/index.html": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.socialsecurity.gov/employer/randomization.html": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.socialsecurity.gov/foia/index.html#a0=3": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.socialsecurity.gov/foia/request.html": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.socialsecurity.gov/forms/ssa-711.pdf": {
+    "first_seen": "2022-03-23T13:50:48.412813",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.socialsecurity.gov/history/": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.socialsecurity.gov/international/totalization_agreements.html": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.socialsecurity.gov/legislation/112th.html#a0=0": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.socialsecurity.gov/legislation/112th.html#a0=1": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.socialsecurity.gov/legislation/index.html": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.socialsecurity.gov/legislation/other.html": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.socialsecurity.gov/legislation/priorcongress.html": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.socialsecurity.gov/legislation/resources.html": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.socialsecurity.gov/oag/": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.socialsecurity.gov/oag/foia/contract/htmactcv.htm": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.socialsecurity.gov/oig/": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=utf-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.socialsecurity.gov/org/": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.socialsecurity.gov/pgm/links_governance.htm": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.socialsecurity.gov/policy/": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.socialsecurity.gov/policy/data_title.html": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.socialsecurity.gov/pubs/": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.ssa.gov/slge/slch.htm": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.ssab.gov/": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.usdoj.gov/oip/oip.html": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=utf-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.usdoj.gov/opcl/prr.htm": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=utf-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "http://www.whitehouse.gov/briefing-room/presidential-actions/executive-orders": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://catalog.data.gov/organization/ssa-gov": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=utf-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://faq.ssa.gov/en-US/": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=utf-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://faq.ssa.gov/en-us/Topic/article/KA-02585": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": null
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://mrdrc.isr.umich.edu/publications/papers/pdf/wp325.pdf": {
+    "first_seen": "2022-03-21T15:28:02.974231",
+    "last_seen": "2022-03-23T13:45:14.906032"
+  },
+  "https://search.ssa.gov/search?affiliate=ssa": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=utf-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://ssa.gov/oag/acq/oagacq_vendor-communication.htm": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.archives.gov/records-mgmt/policy/gils.html": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=utf-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.benefits.gov": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.itdashboard.gov/drupal/summary/016": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/accessibility/": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/agency/": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/agency/asp/materials/pdfs/plan-2014-2018.pdf": {
+    "first_seen": "2022-03-21T15:28:02.974231",
+    "last_seen": "2022-03-23T13:45:14.906032"
+  },
+  "https://www.ssa.gov/agency/glossary/": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/budget/FY19Files/2019CJ.pdf": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/budget/FY20Files/FY20-JEAC_2.pdf": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/conference/2012/SSA_FY12_Conference_Table_Events_Over_100K.pdf": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/conference/2013/SSA_FY13_Conference_Expense_Report_and_Table.pdf": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/conference/2014/SSA_FY14_Conference_Expense_Report_and_Table.pdf": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/conference/2015/SSA_FY15_Conference_Expense_Report_and_Table.pdf": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/conference/2016/SSA_FY16_Conference_Expense_Report_and_Table.pdf": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/conference/2017/SSA_FY17_Conference_Expense_Report_and_Table.pdf": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/conference/2018/SSA_FY18_Conference_Expense_Report_and_Table.pdf": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/conference/2019/SSA_FY19_Conference_Expense_Report_and_Table.pdf": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/conference/2020/SSA_FY20_Conference_Expense_Report_and_Table.pdf": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/digitalstrategy/SSA%20FITARA%20Common%20Baseline%20Implementation%20Plan.pdf": {
+    "first_seen": "2022-03-21T15:28:02.974231",
+    "last_seen": "2022-03-23T13:45:14.906032"
+  },
+  "https://www.ssa.gov/disability/data/SSA-SA-MOWL.xls": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/disabilityresearch/documents/Percent of Fast-Track Receipts.xls": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/disabilityssi/hit/materials/HITDataRequest-STATES.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/espanol/noticias/prensa/hojadedatos/datosbasicos-alt.pdf": {
+    "first_seen": "2022-03-21T15:28:02.253531",
+    "last_seen": "2022-03-23T13:42:15.772329"
+  },
+  "https://www.ssa.gov/foia/": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/2010 Biennial Report.pdf": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/2012 Biennial Report - Final.pdf": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/2013 FOIA Annual Report FINAL.docx": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/2013 FOIA Annual Report FINAL.pdf": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/2013%20FOIA%20Annual%20Report%20FINAL.docx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/foia/2013%20FOIA%20Annual%20Report%20FINAL.pdf": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/foia/2015 Chief FOIA Officer Reports FINAL.doc": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/2016 Final Chief FOIA Officer Report 02-25-16.doc": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/2017 Chief FOIA Officer Report Final.doc": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/2018 SSA Chief FOIA Officer Report Final.docx": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/2018 SSA Chief FOIA Officer Report Final.pdf": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/FY2017 FOIAonline FOIA Raw data For Posting.xls": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/FY2017 eFOIA Raw data for Posting.xls": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/Ficsal Year 2016 FOIA Raw Data for Annual Report.xlsx": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/Ficsal%20Year%202016%20FOIA%20Raw%20Data%20for%20Annual%20Report.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/foia/Final 2020 Chief FOIA Officer Report.docx": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/Final 2020 Chief FOIA Officer Report.pdf": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/List of Frequently Requested SSA Statistics.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/OGC_Organization_Chart_Final.pdf": {
+    "first_seen": "2022-03-21T15:28:01.656797",
+    "last_seen": "2022-03-23T13:41:49.264266"
+  },
+  "https://www.ssa.gov/foia/OPD_Organization_Chart_Final.pdf": {
+    "first_seen": "2022-03-21T15:28:01.656797",
+    "last_seen": "2022-03-23T13:41:49.264266"
+  },
+  "https://www.ssa.gov/foia/SSA FY 15 Final.docx": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/SSA FY 15 Final.pdf": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/SSA FY16 Final.docx": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/SSA FY16 Final.pdf": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/SSA FY17 Annual FOIA Report Final.docx": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/SSA FY17 Annual FOIA Report Final.pdf": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/SSA%20FY%2015%20Final.docx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/foia/SSA%20FY%2015%20Final.pdf": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/foia/SSA%20FY16%20Final.docx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/foia/SSA%20FY16%20Final.pdf": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/foia/about.html": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/annual_reports/2021 Chief FOIA Officer Report.docx": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/annual_reports/2021/Raw Data File - Final.xlsx": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/annual_reports/2021/SSA FOIA Annual Report FY21 Final.docx": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/annual_reports/2021/SSA FOIA Annual Report FY21 Final.pdf": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/annual_reports/FY2018 FOIAonline Raw data for Posting.xlsx": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/annual_reports/FY2018 eFOIA Raw Data for Posting.xlsx": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/annual_reports/FY2019 FOIAonline raw data for Posting Updated.xlsx": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/annual_reports/FY2020 FOIA Annual Report Raw Data file.xlsx": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/annual_reports/Raw Data eFOIA FY2019.xlsx": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/annual_reports/SSA 2022 Final CFO Report.docx": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/annual_reports/SSA FOIA Annual ReportFY19 Final.docx": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/annual_reports/SSA FOIA Annual ReportFY19 Final.pdf": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/annual_reports/SSA FOIA Annual ReportFY20 Final.docx": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/annual_reports/SSA FOIA Annual ReportFY20 Final.pdf": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/annual_reports/SSA FY18 Annual FOIA Report Final.docx": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/annual_reports/SSA FY18 Annual FOIA Report Final.pdf": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/annualreports.html": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/contact.html": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/html/2006%20SSA%20Annual%20FOIA%20Report%20-%20Final.doc": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/html/2006%20SSA%20Annual%20FOIA%20Report%20-%20Final.pdf": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/html/2007%20SSA%20Annual%20FOIA%20Report.doc": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/html/2007%20SSA%20Annual%20FOIA%20Report.pdf": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/html/2008%20FOIA%20Annual%20Report.doc": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/foia/html/2008%20FOIA%20Annual%20Report.pdf": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/foia/html/2009 Annual FOIA Report.docx": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/html/2009 Annual FOIA Report.pdf": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/html/2009%20Annual%20FOIA%20Report.docx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/foia/html/2009%20Annual%20FOIA%20Report.pdf": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/foia/html/2010 Annual FOIA Report.docx": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/html/2011 Annual FOIA Report.doc": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/html/2011 Annual FOIA Report.pdf": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/html/2011%20Annual%20FOIA%20Report.doc": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/foia/html/2011%20Annual%20FOIA%20Report.pdf": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/foia/html/2012 Chief FOIA Report.doc": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/html/2014 FOIA Annual Report FINAL.docx": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/html/2014 FOIA Annual Report.pdf": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/html/2014%20FOIA%20Annual%20Report%20FINAL.docx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/foia/html/2014%20FOIA%20Annual%20Report.pdf": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/foia/html/Annual Report 2009.xls": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/html/Annual Report 2010.pdf": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/html/Annual Report 2012.doc": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/html/Annual Report 2012.pdf": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/html/Annual Report2010.xls": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/html/Annual%20Report%202009.xls": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/foia/html/Annual%20Report%202010.docx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/foia/html/Annual%20Report%202010.pdf": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/foia/html/Annual%20Report%202012.doc": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/foia/html/Annual%20Report%202012.pdf": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/foia/html/Annual%20Report2010.xls": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/foia/html/Chief FOIA Officers Report 2011 FINAL 030711.doc": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/html/Final Chief FOIA Officer Report.doc": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/html/SSA 2014 Chief FOIA Officer Report.pdf": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/html/SSA Chief FOIA Officer for 2013 - Final.pdf": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/foia/index.html": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/privacy.html": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/readingroom.html": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/readingroom.html#content": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/request.html": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/SSA-L996.pdf": {
+    "first_seen": "2022-03-21T15:27:53.772810",
+    "last_seen": "2022-03-23T13:37:48.884572"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2016 SSDI & SSI Claims Allowance Rates by Nation, Region & State.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/2017 List of SSA Approved Forms.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/Agree Rates by Administrative Law Judges (ALJ) National Dec 2016 - Dec 2017.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/Count of Consultative Exam Requests, Initial and Reconsideration Medical Determinations, FY 2011-2017.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/FY 2011 - FY2017 Ticket to Work - Total number of Tickets assigned to Employment Networks.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/FY 2011 through 2017 Total Consultative Exams (CE) &  CE Expenditures Broken out by Claim Type.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/FY 2016 Field Office Employee Counts.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/FY 2016 Foreign Pension Review Report-final.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/FY 2016 Title 2 Claim Receipts by Field Office.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/FY 2016 Types of Pending Disability Cases.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/FY 2017 Attorneys and Non-Attorneys Eligible for Direct Fee Payment for Title 2 Claimant Representation.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/FY 2017 Informal Remand Processing Statistics.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/FY 2017 Qtr 2 Types of Pending Disability Cases.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/FY 2017 Title 2 Claim Statistics on Representation.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/FY 2017 Title 2 On the Record Decisions by Hearing Office.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/FY 2017 Wait times for Title 2 claims pending at the initial application listed by each field office.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/FY 2017 Wait times for Ttitle 2 claims pending at the initial application listed by state total.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/FY 2017 Workload Data - Disability Decisions.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/FY 2018 Participating Consent Based SSN Verification (CBSV) Companies.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/FY 2018 SSA Disability and SSI Disability Claims Allowance Rates.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/FY17 Key Workload Indicators.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/FY2012 - FY2017 Dire Need Claims Recieved and Granted.docx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/FY2012 - FY2017 Total Number of State Disability Determination Service Employees.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/FY2015 Final Form 462.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/FY2016 Continuing Disability Review Type Statistics.docx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/FY2016 Disability Beneficiaries  Blindness-Deafness.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/FY2016 Field Office Visitor Counts.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/FY2016 Final Form 462.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/FY2016- Disabled Workers by type of Neoplasm.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/FY2017 - 300 Top Paid Claimant Representative Firms.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/FY2017 Claimant Representatives Receiving the Largest Volume of Fee Payments.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/FY2017 Continuing Disability Review Type Statistics.docx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/FY2017 Disability Determination Service (DDS) Reconsideration Processing Times.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/FY2017 Final Form 462.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/FY2017 Ticket to Work Employment Networks Ranked by Revenue.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/Number of  Schedule A Hires FY2015- FY2017.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/Number of Ticket to Work Users 2007-2017 by Field Office.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/Number of Ticket to Work Users 2007-2017 by State.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/SSA CY 2016  Occupational Safety and Health Report -Appendix 4.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/SSA CY 2016 Occupational Health and Safety Report Appendix 4 attachment 1.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/SSA CY 2016 Occupational Safety and Health Report -   Narrative.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/Ticket to Work User Counts by State for each year 2007 through 2017.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2018/Volume Counts - Total Visitors by Office 10-01-2015 to 09-30-2016.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/04 2019 Minnesota Hours Claims Reviewed by Medical Consultants.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/2002 Cost Analysis of SSA Fee Assessment for Determining & Certfying Attorneys Fees 1 of 2.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/2002 Cost Analysis of SSA Fee Assessment for Determining & Certfying Attorneys Fees 2 of 2.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/Active Representative Payee Organizations  serving 10 or more Beneficiaries 02-22-19.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/Attorney Fee Process Schedule AF-1.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/Attorney Fee Process.docx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/Cook County IL Incentive Payment Memorandum Of Understanding (IPMOU).pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/Cook County Jail Statistical Information January 2017 to October 2018.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/Direct Contact Information for all SSA Field Offices as of 10-29-2019.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY 2019 Allowance Rates_FOIA Reading Room.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY19 YTD Monthly Disps by Title and Type YTD 02-25-19.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2001 to FY2019  Initial Claims by Title.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2004-FY2018 Annual Field Office Visit Counts.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2005 - FY2018 Equal Access to Justic Act (EAJA) Payments.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2007 SSA SF-311.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2008 SSA SF-311.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY20080FY2018 Representative Rates by Adjudicative Level.docx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2009 SSA SF-311.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2010 -2018 Average Fee Amount Paid to An Attorney Representative.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2010 Medical Examiners & Vocational Experts with Total Payments.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2010 SSA SF-311.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2010-FY2017 Appeals Council Remands Due to Treating Physician Violation by State.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2010-FY2017 Court Overturns due to a Trating Physician Violation.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2010-FY2017 Court Remands due to a Treating Physician Violation.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2011 Medical Examiners & Vocational Experts with Total Payments.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2011 SSA SF-311.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2011- August 2018 Number of Corrected Death Records.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2012 DDS Consultative Examination Oversight Reports.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2012 Medical Examiners & Vocational Experts with Total Payments.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2012 SSA SF-311.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2013 Attorney Representative Payments in Excess of $100,000.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2013 DDS Consultative Examination Oversight Reports.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2013 Medical Examiners & Vocational Experts with Total Payments.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2013 SSA SF-311.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2013-2015 Compensation received by all Vocational Experts and Medical Experts.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2013-FY2017 Rep Firms Paid More than 350K.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2013-FY2017 Representatives Paid More than 350K.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2014 Attorney Representative Payments in Excess of $100,000.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2014 DDS Consultative Examination Oversight Reports.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2014 Medical Examiners & Vocational Experts with Total Payments.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2014 SSA SF-311.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2014-FY2018 State DDS Employee Counts.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2015 Attorney Representative Payments in Excess of $100,000.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2015 Consultative Examination Providers.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2015 DDS Consultative Examination Oversight Reports.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2015 Medical Examiners & Vocational Experts with Total Payments.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2015 Records Management Self Assessment Report.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2015 SSA SF-311.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2016 - 2018 Monthly Dispositions by Title and Type.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2016 - FY2018 SSDI Representation in Dismissals.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2016 - FY2019 YTD Monthly Dispostions by Title and Type.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2016 Medical Examiners & Vocational Experts with Total Payments.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2016 Records Management Self Assessment Report.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2016 SSA SF-311.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2016 Video Hearing Opt Out Numbers and Rates for Hearing Requests Recieved.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2016 to FY2018 Total Cases Evaluated under the Informal Remand Process by Quarter.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2016 to FY2018 Total Cases Evaluated under the Informal Remand Process.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2016-2018 Fee Tables for Vocational Experts and Medical Experts.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2016-FY2020 ALJs Hired or Projected to be Hired.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2017 - FY2018 Monthly Hearings Held - Decisions Written - Drafts Pending.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2017 California DDS Fee Schedule.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2017 Florida DDS Fee Schedule.docx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2017 Illinois DDS Fee Schedule.docx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2017 Medical Examiners & Vocational Experts with Total Payments.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2017 Michigan IPMOU Facilities and Payments.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2017 New Jersey DDS Fee Schedule.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2017 OMB Scorecard for Efficient Federal Operations Management.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2017 Office of Hearing Operations Disposition Information with Page Counts.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2017 Ohio DDS Fee Schedule.docx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2017 Pennsylvania DDS Fee Schedule.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2017 Records Management Self Assessment Report.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2017 SSA SF-311.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2017 SSA Strategic Sustainability Plan.docx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2017 Texas DDS Fee Schedule.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2017 Video Hearing Opt Out Numbers and Rates for Hearing Requests Recieved.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2017 Virginia DDS FEE Schedule.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2018 4th Qtr Key Workload Indicators.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2018 Average Number of Days From Hearing Held to Disposition.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2018 Colorado DDS Fee Schedule.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2018 Field Office  Staff Count & FY14-18 Field Office Count.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2018 Key Workload Indicators.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2018 Medical Examiners & Vocational Experts with Total Payments.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2018 Number of SSDI claims decided at Hearing Level including OTR Decisions.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2018 SSA Disability and SSI Disability Claims Allowance Rates.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2018 Title II Continuing Disability Reviews by Diagnosis Type.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2018 Top 300 Firms and Claimant Representatives by Largest Volume of Fee Payments.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2018 Total Num of CEs assigned-Hearing Level.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2018 Total Num of CEs assigned-Initial & Recon.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2018 Total Num of CEs completed-Hearing Level.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2018 Total Num of CEs completed-Initial & Recon.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2018 Total Pending Claims by Level.docx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2018 Total amount of expenditure by the SSA on CEs.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2018 Wait Times for Initial SSDI Claims by Field Office and State.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2018 Wait Times for Reconsideration SSDI Claims by Field Office and State.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2018 Workload Data-Total.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/FY2018- FY2022 Real Property Efficiency Plan.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/Jan 2018 - Dec 2018 Appeals Council Request for Review Actions.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/Pennsylvania Approved Organizational Representatives as of November 2018.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/Position Description ES6212 - Deputy Commisssioner for Systems.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/Position Description ES6442 - Deputy Commissioner for Retirement and Disability Policy.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/Position Description EX0002 - Inspector General.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/Prisoner Tracking Management Information - Chicago Region 2017.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/Representative Rates by Adjudicative Level FY 2008 - FY 2018.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/Representative Rates by Adjudicative Level FY 2010 - FY 2019.docx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/San Francisco Region Field Office List Nov 2018.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/Social Secuirty Number Statistics as of August 2018.docx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/South Carolina Hearing Office ALJ Dispositions 01-01-10 to 02-21-18.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/TII Claim Specialists TXVI Crossover Guide.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/TII Claims Specialist Basic Training Curriculum Unit 1.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/TII Claims Specialist Basic Training Curriculum Unit 2.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/TII Claims Specialist Basic Training Curriculum Unit 3.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/TII Claims Specialist Basic Training Curriculum Unit 4.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/TII Claims Specialist Basic Training Curriculum Unit 5.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/TXVI CLaims Specialist Fundamentals.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/TXVI Claim Specialists TII Crossover Guide.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/TXVI Claims Specialist Basic Training Curriculum TII Fundamentals and MMA Student.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/TXVI Claims Specialist Basic Training Curriculum Unit 1.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/TXVI Claims Specialist Basic Training Curriculum Unit 2.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/TXVI Claims Specialist Basic Training Curriculum Unit 3.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/TXVI Claims Specialist Basic Training Curriculum Unit 4.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/TXVI Claims Specialist Basic Training Curriculum Unit 5.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/TXVI Claims Specialist Basic Training Curriculum Unit 6.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/TXVI Claims Specialist Basic Training Curriculum Unit 7.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/TXVI Claims Specialist Basic Training Curriculum Unit 8.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/TXVI Claims Specialist Basic Training Curriculum Unit 9.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2019/Technical Methods to Ease Migration from Hyperion Interactive Reports.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/2017_Supplemental ALJ Training Notebook.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/2018 Top 100 Firms & Reps by Fee.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/2018 _Supplemental ALJ Training Notebook.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/2019 Top 100 Firms & Reps by Fee.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/2019_Supplemental ALJ Training Notebook.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/ALJ Training and Communications - Evaluating Medical Source Statements.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/AM-17049 Evaulating PTSD.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/Andrew Saul Appointment Affidavits.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/Attorney-Representative_TravelCosts_FYs2012-2018.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/Career Senior Executive Staff as of 10-3-2019.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/End Of Year FY19 Employee Counts by FO.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/FY 2013 RO CE Oversight Reports Part 1.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/FY 2014 RO CE Oversight Reports Part 1.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/FY 2014 RO CE Oversight Reports Part 2.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/FY 2015 - RI DDS_CE Provider List.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/FY 2015 CE Providers.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/FY 2015 RO CE Oversight Reports.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/FY 2015 State DDS CE Oversight Reports.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/FY 2016 - RI DDS_CE Provider List.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/FY 2016 -Texas DDS_CE Provider List.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/FY 2016 CE Providers.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/FY 2016 RO CE Oversight Reports.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/FY 2016 State DDS CE Oversight Reports.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/FY 2017 - RI DDS_CE Provider List.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/FY 2017 -Texas DDS_CE Provider List.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/FY 2017 CE Providers.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/FY 2017 RO CE Oversight Reports.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/FY 2017 State DDS CE Oversight Reports.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/FY 2019 CBSV Company and Contact list.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/FY 2019 CBSV Company list.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/FY 2020 Allowance Rates_FOIA Reading Room.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/FY2002 - FY2018 DDS Examiners Counts.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/FY2010 - FY2018 Hearing Statistics with & without Representation.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/FY2012 - FY2013 IL Appeals Council Actions.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/FY2014 - FY2019 IL Appeals Council Actions.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/FY2019 AZ DDS Mental Health CEs.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/FY2019 Representation for OAO Dispositions.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/FY2019 SSA Field Office Visits.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/Instructions - AM-18029 REV Collateral Estoppel and the Revised Mental and Immune System Disorders Listings.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/List of Top 300 Fee Pmts 2019.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/Monthly FOIA Meeting Agendas & Notes 1-2017 to 10-2018.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/Non-Career Senior Executive Staff as of 9-30-19.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/Office of Appellate Operations Remand Reasons_Feb 2020.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/POMS GN 03360 TN10.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/POMS Section TC 36001.050.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/Real Property Efficiency Plan Attachment FY2020-FY2014 - September 2019.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/Representative Rates by Adjudicative Level FY 2011 - FY 2020.docx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/SSA Real Property Efficiency Plan FY 2019 - FY 2023.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/SSA Real Property Efficiency Plan FY 2020-FY 2024 - September 2019.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/SSNs Issued to Babies in AR by Month April 2017-2018.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/Schedule C Appointees as of 10-4-19.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/Ticket (TTW) Count By State Office with Age.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/Ticket (TTW) Count By State with Age.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/Ticket to Work Employment Networks 2019.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/Workload Support Unit (WSU) Direct Phone numbers.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2020/Year Ending DDS Employee Counts FY2012 - FY2019.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2021/2021 Active Organizational Payees.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2021/Commissioner Saul Oath of Office.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2021/FY 19-21 Dispositions.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2021/FY 1994 State Agency Operations Report.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2021/FY 1995 State Agency Operations Report.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2021/FY 1996 State Agency Operations Report.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2021/FY 1997 State Agency Operations Report.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2021/FY 1998 State Agency Operations Report.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2021/FY 1999 State Agency Operations Report.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2021/FY 2000 State Agency Operations Report.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2021/FY 2016 - FY2020 Full Medical Review Continuing Disability Reviews.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2021/FY 2019 CE Data.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2021/FY 2019 Continuing Disability Review Mailer Info.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2021/FY 2019 Firms greater than 200k.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2021/FY 2019 Rep Fee Payments Over 50K.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2021/FY 2019 Reps greater than 200k.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2021/FY 2020 CE Data.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2021/FY 2020 Continuing Disability Review Mailer Info.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2021/FY 2020 Continuing Disability Reviews.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2021/FY 2020 Employment Networks Info.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2021/FY 2020 Fee Payments Over 225K.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2021/FY 2020 Firms greater than 200k.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2021/FY 2020 Rep Fee Payments Over 50K.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2021/FY 2020 Reps greater than 200k.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2021/FY 2020 SSDI OTR.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2021/FY 2021 Allowance Rates_FOIA Reading Room.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2021/FY2020 Top 300 Firms by Volume of Payments.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2021/Incentive Pmts 01-01-2010 thru 12-31-2019.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2022/CAR February 2022 Updated.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2022/Representative Rates by Adjudicative Level FY 2012 - FY 2021.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/2022/SSA Leadership 1-20-2001 to 4-25-2021.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/AI7342 - List of Non-attorneys_Redacted.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/Annual premiums set by SSA for the Coal Industry.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/Appeals Council Pending Claims and National Average Processing Time for FY2016.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/Archived_POMS_RS01701_020_RS01701_110.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/Awards to All Disabled Beneficiaries in Gaston, NC.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/Correspondence Among Officials at SSA Discussing Social Security Benefits and Suspected Nazi War Criminals.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/FOIA AI9370-01.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/FO_Caller_Survey_FY2006.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/FO_Caller_Survey_FY2007.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/FO_Caller_Survey_FY2009-2008.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/FY 10 Key Workload Indicators.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/FY 2017 SSDI & SSI Claims Allowance Rates by Nation, Region & State.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/FY11 Key Workload Indicators.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/FY12 Key Workload Indicators .pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/FY12 Workload Data-Total.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/FY13 Key Workload Indicators.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/FY14 Key Workload Indicators.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/FY15 Key Workload Indicators.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/FY16 Key Workload Indicators.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/FY2014 Workload Data - Disability Decisions.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/FY2016 SSDI Dispositions Represented and Not Represented.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/FY_2010_FO_TSRP_Survey_Report.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/Federally Administered Payments for persons diagnosed with HIV and AIDS.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/Non-Attorney Representatives Eligible for Direct Fee Payment 04-21-17.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/Number of Investigated mySSA and I-Claim Fraud Cases through 02-28-17.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/OIG Special Agent Handbook.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/Political Appontees 2017 - Resumes.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/Political Appontees ethics pledges 2017.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/Region 2 Dispositions FY2016 - hearing office, Date case closed, and disposition.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/SSA Records Concerning Social Security Benefits and Nazi War Criminals.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/SSI Recipients and Payments by State December 2015.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/Sanctioned Registered Reps.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/Sanctioned Unregistered Reps.xlsx": {
+    "first_seen": "2022-03-21T13:11:26.103761",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/State of Georgia Appeals Council Request for Review Actions 2009 - 2014.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/Texas DDS Medical Consultants for FY2015.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/foia/resources/proactivedisclosure/Vocational Expert Blanket Purchase Agreement.pdf": {
+    "first_seen": "2022-03-18T11:06:23.558596",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "application/pdf"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/forms/ss-5.pdf": {
+    "first_seen": "2022-03-21T15:28:16.584642",
+    "last_seen": "2022-03-23T13:51:09.591883"
+  },
+  "https://www.ssa.gov/forms/ss-5fs.pdf": {
+    "first_seen": "2022-03-21T15:28:16.584642",
+    "last_seen": "2022-03-23T13:51:09.591883"
+  },
+  "https://www.ssa.gov/forms/ssa-3288.pdf": {
+    "first_seen": "2022-03-21T15:27:53.772810",
+    "last_seen": "2022-03-23T13:37:48.884572"
+  },
+  "https://www.ssa.gov/forms/ssa-7050.pdf": {
+    "first_seen": "2022-03-21T15:27:53.772810",
+    "last_seen": "2022-03-23T13:37:48.884572"
+  },
+  "https://www.ssa.gov/forms/ssa-711.pdf": {
+    "first_seen": "2022-03-21T15:27:54.425577",
+    "last_seen": "2022-03-23T13:41:00.713027"
+  },
+  "https://www.ssa.gov/forms/ssa-714.pdf": {
+    "first_seen": "2022-03-21T15:27:53.772810",
+    "last_seen": "2022-03-23T13:41:00.713027"
+  },
+  "https://www.ssa.gov/improperpayments/documents/2019/RSDI%20IP%20ExperienceThru17.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/improperpayments/documents/2019/SSI_IP_ExperienceThru17.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/irm/IRM_2016.pdf": {
+    "first_seen": "2022-03-21T15:28:02.974231",
+    "last_seen": "2022-03-23T13:45:14.906032"
+  },
+  "https://www.ssa.gov/legislation/PER fy14.pdf": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/legislation/PER%20fy12.pdf": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/legislation/PER%20fy13.pdf": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/legislation/PERfy15.pdf": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/legislation/PERfy16.pdf": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/news/press/factsfig.html": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/news/press/factsheets/basicfact-alt.pdf": {
+    "first_seen": "2022-03-21T15:28:02.253531",
+    "last_seen": "2022-03-23T13:42:15.772329"
+  },
+  "https://www.ssa.gov/news/press/releases/": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/oag/Vendor_Repository.pdf": {
+    "first_seen": "2022-03-21T15:28:02.974231",
+    "last_seen": "2022-03-23T13:45:14.906032"
+  },
+  "https://www.ssa.gov/oag/acq/SSA%20Vendor%20Communication%20Plan.pdf": {
+    "first_seen": "2022-03-21T15:28:02.974231",
+    "last_seen": "2022-03-23T13:45:14.906032"
+  },
+  "https://www.ssa.gov/open/": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/open/data/": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/open/data/800-number-average-speed-to-answer.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/800-number-call-volume-and-agent-busy-rate.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/Accuracy.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/Appeals-Council-Avg-Proc-Time.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/Average-Proc-Time-Until-Hearing-Held.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/Combined-Disability-Processing-Time.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/DDS-Net-Accuracy.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/Disability-Processing-Time-Title-XVI.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/EAJA.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/EOY-Generational-Data.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/Extra-Help-with-Medicare-Prescription-Drug-Plan-Cost.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/FO-Address-Open-Close-Times.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/FO-Answer-Busy-Rate.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/FO-RS-Address-Open-Close-Times.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/FY-2012-Conference-Information.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/FY-2013-Conference-Information.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/FY-2014-Conference-Information.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/FY-2015-Conference-Information.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/FY-2016-Conference-Information.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/FY-2017-Conference-Information.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/FY-2018-Conference-Information.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/FY-2019-Conference-Information.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/FY-2020-Conference-Information.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/OPI-Average-Processing-Time-for-Public-Inquiries.pdf": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/OPI-Average-Processing-Time-for-Public-Inquiries.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/OPI-Incoming-Pending-Completed-Public-Inquiries.pdf": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/OPI-Incoming-Pending-Completed-Public-Inquiries.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/OPI-Types-of-Public-Inquiries-Received.pdf": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/OPI-Types-of-Public-Inquiries-Received.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/Periodic-CDR-Case-Backlog.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/Periodic-Continuing-Disability-Reviews.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/QUARTERLY-API-TIS-DATA.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/RSI_ReceiptsCompleted2.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/SEMIANNUAL-BILINGUAL-EMPLOYEE-API-DATA.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/SSA-Overall-Customer-Satisfaction.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/SSA-Retirement-Applicant-Satisfaction.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/YEARLY-API-BILINGUAL-EMPLOYEE-DATA.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/YEARLY-API-TIS-DATA.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/actuarial-note-159-table-1.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/actuarial-note-159-table-2.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/actuarial-note-159-table-3.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/actuarial-note-159-table-4.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/actuarial-note-159-table-5.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/actuarial-note-159-table-6.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/actuarial-note-159-table-7.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/agreement-rate-of-alj-decisions.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/disability_reconsideration_average_processing_time.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/enumeration-processing-time.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/field-office-claims-appointments-scheduled-within-21-days.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/field-office-visitors-average-daily.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/fy08-present-coa-internet-usage.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/fy08-present-dd-internet-usage.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/fy08-present-dib-filed-via-internet.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/fy08-present-mrc-internet-usage.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/fy08-present-rib-filed-via-internet.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/fy12-onward-dib-filed-via-internet-53rdweek.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/fy12-onward-dib-filed-via-internet.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/fy12-onward-rib-filed-via-internet-53rdweek.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/fy12-onward-rib-filed-via-internet.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/fy15-present-SSN-RC-apps-filed-internet.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/fy16-onwards-CDP-Time-Monthly-53rdweek.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/fy16-onwards-CDP-Time-Monthly.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/fy16-onwards-COA-internet-usage-Monthly-53rdweek.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/fy16-onwards-COA-internet-usage-Monthly.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/fy16-onwards-DD-internet-usage-Monthly-53rdweek.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/fy16-onwards-DD-internet-usage-Monthly.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/fy16-onwards-MPD-Plan-Cost-Yrly.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/fy16-onwards-RSI-ReceiptsCompleted-Monthly-53rdweek.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/fy16-onwards-RSI-ReceiptsCompleted-Monthly.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/hearing-receipts-and-closing-pending.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/initial-disability-and-hearing-level-service-satisfaction.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/medicare-mailings-by-zipcode-L447.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/medicare-mailings-by-zipcode-L448.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/medicare-replacement-card-online-satisfaction.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/preeffectuation-review-of-disability-determinations-2012.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/preeffectuation-review-of-disability-determinations-2013.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/preeffectuation-review-of-disability-determinations-2014.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/preeffectuation-review-of-disability-determinations-2015.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/preeffectuation-review-of-disability-determinations-2016.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/program-service-centers.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/representation-at-ssa-hearings.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/targeted-denial-review.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/data/yearly-field-office-claims-pending.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/havv/HAVV-running-list.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/plans/plan-progress-4.1.html": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/open/plans/plan-progress-dataset.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/open/plans/story-2016-open-government-plan4.1.html": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/people/aian/materials/pdfs/17-72-Tribal_Benefits_Coordinator_Guide.pdf": {
+    "first_seen": "2022-03-21T15:28:04.265986",
+    "last_seen": "2022-03-23T13:46:09.221414"
+  },
+  "https://www.ssa.gov/policy/docs/statcomps/di_asr/2008/sect01a.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/policy/docs/statcomps/di_asr/2008/sect01c.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/policy/docs/statcomps/ssi_asr/2008/sect02.xlsx": {
+    "first_seen": "2022-03-21T15:28:04.668476",
+    "last_seen": "2022-03-23T13:46:47.760765"
+  },
+  "https://www.ssa.gov/pressoffice/word/SSA_%20FDCCI_Final%20Consolidation%20Plan%2012212011.pdf": {
+    "first_seen": "2022-03-21T15:27:55.054368",
+    "last_seen": "2022-03-23T13:41:17.523994"
+  },
+  "https://www.ssa.gov/privacy/": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/pubs/EN-05-10006.pdf": {
+    "first_seen": "2022-03-21T15:28:16.584642",
+    "last_seen": "2022-03-23T13:51:09.591883"
+  },
+  "https://www.ssa.gov/pubs/EN-05-10022.pdf": {
+    "first_seen": "2022-03-21T15:27:52.579894",
+    "last_seen": "2022-03-23T13:51:09.591883"
+  },
+  "https://www.ssa.gov/pubs/EN-05-10024.pdf": {
+    "first_seen": "2022-03-21T15:28:02.974231",
+    "last_seen": "2022-03-23T13:45:14.906032"
+  },
+  "https://www.ssa.gov/pubs/EN-05-10026.pdf": {
+    "first_seen": "2022-03-21T15:27:52.579894",
+    "last_seen": "2022-03-23T13:36:23.368522"
+  },
+  "https://www.ssa.gov/pubs/EN-05-10070.pdf": {
+    "first_seen": "2022-03-21T15:28:16.584642",
+    "last_seen": "2022-03-23T13:51:09.591883"
+  },
+  "https://www.ssa.gov/pubs/EN-05-10072.pdf": {
+    "first_seen": "2022-03-21T15:28:16.584642",
+    "last_seen": "2022-03-23T13:51:09.591883"
+  },
+  "https://www.ssa.gov/pubs/EN-05-10085.pdf": {
+    "first_seen": "2022-03-21T15:27:52.579894",
+    "last_seen": "2022-03-23T13:36:23.368522"
+  },
+  "https://www.ssa.gov/pubs/EN-05-10100.pdf": {
+    "first_seen": "2022-03-21T15:28:16.584642",
+    "last_seen": "2022-03-23T13:51:09.591883"
+  },
+  "https://www.ssa.gov/pubs/EN-05-10147.pdf": {
+    "first_seen": "2022-03-21T15:28:16.584642",
+    "last_seen": "2022-03-23T13:51:09.591883"
+  },
+  "https://www.ssa.gov/pubs/LAP2022-23.pdf": {
+    "first_seen": "2022-03-21T15:27:53.253378",
+    "last_seen": "2022-03-23T13:36:58.118151"
+  },
+  "https://www.ssa.gov/site/languages/en/": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/site/menu/en/": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  },
+  "https://www.ssa.gov/site/signin/en/": {
+    "first_seen": "2022-03-23T13:47:12.599051",
+    "headers": {
+      "content-disposition": null,
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "last_seen": "2022-03-23T13:50:48.412813"
+  }
+}
