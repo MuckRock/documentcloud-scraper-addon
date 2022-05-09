@@ -6,28 +6,34 @@ description: >-
 type: object
 properties:
   site:
+    title: Site
     type: string
     format: uri
     description: The URL of the site to start scraping
   project:
+    title: Project
     type: number
     description: >-
       The DocumentCloud project ID of the project the documents should be uploaded in to
   keywords:
+    title: Keywords
     type: array
     items:
       type: string
     description: Keywords to search and notify on
   filetypes:
+    title: File Types
     type: array
     items:
       type: string
     description: File extensions to be uploaded to DocumentCloud
     default: [".pdf", ".docx", ".xlsx", ".pptx", ".doc", ".xls", ".ppt"]
   crawl_depth:
+    title Crawl Depth
     type: number
     description: How many pages away from the first site to scrape from
     default: 1
   dry_run:
+    title: Dry Run
     type: boolean
     description: Do not upload any documents or store any scraping data
