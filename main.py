@@ -76,7 +76,6 @@ class Document:
 
 
 class Scraper(AddOn):
-
     def check_crawl(self, url, content_type):
         # check if it is from the same site
         scheme, netloc, path, qs, anchor = urlparse.urlsplit(url)
@@ -173,7 +172,7 @@ class Scraper(AddOn):
                 for d in doc_group
             ]
             # do a bulk upload
-            if not self.data["dry_run"]:
+            if not self.data.get("dry_run"):
                 resp = self.client.post("documents/", json=doc_group)
 
         if self.total_new_doc_count >= MAX_NEW_DOCS:
@@ -206,7 +205,7 @@ class Scraper(AddOn):
 
     def alert(self):
         """Run queries for the keywords to generate additional alerts"""
-        for keyword in self.data["keywords"]:
+        for keyword in self.data["keywords"].split(","):
             query = (
                 f"+project:{self.data['project']} {keyword} created_at:[NOW-1HOUR TO *]"
             )
@@ -233,7 +232,9 @@ class Scraper(AddOn):
         self.base_netloc = netloc
         self.seen = set()
         self.new_docs = {}
-        self.content_types = [mimetypes.types_map[f] for f in self.data["filetypes"]]
+        self.content_types = [
+            mimetypes.types_map[f] for f in self.data["filetypes"].split(",")
+        ]
         self.total_new_doc_count = 0
 
         self.site_data = self.load_event_data()
