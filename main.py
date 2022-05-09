@@ -12,7 +12,7 @@ from datetime import datetime
 
 import requests
 from bs4 import BeautifulSoup
-from documentcloud.addon import CronAddOn
+from documentcloud.addon import AddOn
 from documentcloud.constants import BULK_LIMIT
 from documentcloud.toolbox import grouper, requests_retry_session
 from ratelimit import limits, sleep_and_retry
@@ -75,7 +75,7 @@ class Document:
         return urlparse.urlunsplit((scheme, netloc, path, qs, anchor))
 
 
-class Scraper(CronAddOn):
+class Scraper(AddOn):
 
     def check_crawl(self, url, content_type):
         # check if it is from the same site
