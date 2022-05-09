@@ -76,20 +76,6 @@ class Document:
 
 
 class Scraper(CronAddOn):
-    def load_data(self):
-        """Load data from the file checked into the repository"""
-        try:
-            with open("data.json", "r") as file_:
-                return json.load(file_)
-        except FileNotFoundError:
-            return {}
-
-    def store_data(self, data):
-        """Store data to be checked in to the repository"""
-        if self.data["dry_run"]:
-            return
-        with open("data.json", "w") as file_:
-            json.dump(data, file_, indent=2, sort_keys=True)
 
     def check_crawl(self, url, content_type):
         # check if it is from the same site
@@ -250,9 +236,9 @@ class Scraper(CronAddOn):
         self.content_types = [mimetypes.types_map[f] for f in self.data["filetypes"]]
         self.total_new_doc_count = 0
 
-        self.site_data = self.load_data()
+        self.site_data = self.load_event_data()
         self.scrape(self.data["site"])
-        self.store_data(self.site_data)
+        self.store_event_data(self.site_data)
         self.send_scrape_message()
 
         self.alert()
