@@ -206,6 +206,8 @@ class Scraper(AddOn):
     def alert(self):
         """Run queries for the keywords to generate additional alerts"""
         for keyword in self.data["keywords"].split(","):
+            if not keywords:
+                continue
             query = (
                 f"+project:{self.data['project']} {keyword} created_at:[NOW-1HOUR TO *]"
             )
