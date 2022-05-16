@@ -151,7 +151,7 @@ class Scraper(AddOn):
                 # stop looking for new documents if we hit the max
                 if self.total_new_doc_count >= MAX_NEW_DOCS:
                     break
-            elif depth < self.data["crawl_depth"]:
+            elif depth < self.data.get("crawl_depth", 0):
                 # if not a document, check to see if we should crawl
                 if self.check_crawl(full_href, content_type):
                     sites.append(full_href)
@@ -235,7 +235,7 @@ class Scraper(AddOn):
         self.seen = set()
         self.new_docs = {}
         self.content_types = [
-            mimetypes.types_map[f] for f in self.data["filetypes"].split(",")
+            mimetypes.types_map[f] for f in self.data("filetypes", ".pdf").split(",")
         ]
         self.total_new_doc_count = 0
 
