@@ -205,7 +205,7 @@ class Scraper(AddOn):
 
     def alert(self):
         """Run queries for the keywords to generate additional alerts"""
-        for keyword in self.data["keywords"].split(","):
+        for keyword in self.data.get("keywords", "").split(","):
             if not keyword:
                 continue
             query = (
