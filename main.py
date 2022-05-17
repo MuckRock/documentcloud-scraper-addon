@@ -235,7 +235,7 @@ class Scraper(AddOn):
         self.seen = set()
         self.new_docs = {}
         self.content_types = [
-            mimetypes.types_map[f] for f in self.data("filetypes", ".pdf").split(",")
+            mimetypes.types_map[f] for f in self.data.get("filetypes", ".pdf").split(",")
         ]
         self.total_new_doc_count = 0
 
