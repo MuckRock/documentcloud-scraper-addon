@@ -240,6 +240,8 @@ class Scraper(AddOn):
         self.total_new_doc_count = 0
 
         self.site_data = self.load_event_data()
+        if self.site_data is None:
+            self.site_data = {}
         self.scrape(self.data["site"])
         self.store_event_data(self.site_data)
         self.send_scrape_message()
