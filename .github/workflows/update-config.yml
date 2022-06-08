@@ -1,0 +1,12 @@
+
+name: Update Config
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - config.yaml
+
+jobs:
+  Update-Config:
+    uses: MuckRock/documentcloud-addon-workflows/.github/workflows/update-config.yml@v1
