@@ -19,6 +19,14 @@ properties:
     title: Keywords
     type: string
     description: Keywords to search and notify on (comma separated)
+  filecoin:
+    title: Push to IPFS/Filecoin
+    type: boolean
+    description: >-
+      WARNING: This will push all scraped files to IPFS and Filecoin.  There is
+        no way to remove files from these storage systems.  Do not enable this
+        unless you are sure the scrapped documents are safe to re-publish
+        publically.
   #filetypes:
   #  title: File Types
   #  type: string

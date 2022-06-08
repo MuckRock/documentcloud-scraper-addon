@@ -19,7 +19,8 @@ from ratelimit import limits, sleep_and_retry
 
 SLACK_WEBHOOK = os.environ.get("SLACK_WEBHOOK")
 DOC_CUTOFF = 10
-MAX_NEW_DOCS = 100
+MAX_NEW_DOCS = 1
+FILECOIN_ID = 104
 
 
 class Document:
@@ -157,6 +158,7 @@ class Scraper(AddOn):
                     sites.append(full_href)
 
         self.new_docs[site] = docs
+        doc_ids = []
         for doc_group in grouper(docs, BULK_LIMIT):
             # filter out None's from grouper padding
             doc_group = [d for d in doc_group if d]
@@ -174,6 +176,12 @@ class Scraper(AddOn):
             # do a bulk upload
             if not self.data.get("dry_run"):
                 resp = self.client.post("documents/", json=doc_group)
+                doc_ids.extend(d["id"] for d in resp.json())
+        if self.data.get("filecoin") and doc_ids:
+            self.client.post(
+                "addon_runs/",
+                json={"addon": FILECOIN_ID, "parameters": {}, "documents": doc_ids},
+            )
 
         if self.total_new_doc_count >= MAX_NEW_DOCS:
             return
@@ -235,7 +243,8 @@ class Scraper(AddOn):
         self.seen = set()
         self.new_docs = {}
         self.content_types = [
-            mimetypes.types_map[f] for f in self.data.get("filetypes", ".pdf").split(",")
+            mimetypes.types_map[f]
+            for f in self.data.get("filetypes", ".pdf").split(",")
         ]
         self.total_new_doc_count = 0
 
