@@ -30,11 +30,13 @@ properties:
   #  type: string
   #  description: File extensions to be uploaded to DocumentCloud (comma separated)
   #  default: ".pdf,.docx,.xlsx,.pptx,.doc,.xls,.ppt"
-  #crawl_depth:
-  #  title: Crawl Depth
-  #  type: number
-  #  description: How many pages away from the first site to scrape from
-  #  default: 0
+  crawl_depth:
+    title: Crawl Depth
+    type: integer
+    description: Recursively scrape same-domain links found on the page (Must be between 0 and 2)
+    default: 0
+    minimum: 0
+    maximum: 2
 required:
   - site
   - project
