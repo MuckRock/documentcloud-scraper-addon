@@ -40,6 +40,11 @@ properties:
   notify_all:
     title: Notify on all new documents
     type: boolean
+  slack_webhook:
+    title: Slack Webhook
+    type: string
+    format: uri
+    description: Enter a slack webhook to enable Slack notifications
 required:
   - site
   - project

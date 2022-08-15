@@ -17,7 +17,6 @@ from documentcloud.constants import BULK_LIMIT
 from documentcloud.toolbox import grouper, requests_retry_session
 from ratelimit import limits, sleep_and_retry
 
-SLACK_WEBHOOK = os.environ.get("SLACK_WEBHOOK")
 DOC_CUTOFF = 10
 MAX_NEW_DOCS = 1
 FILECOIN_ID = 104
@@ -193,9 +192,9 @@ class Scraper(AddOn):
     def send_notification(self, subject, message):
         """Send notifications via slack and email"""
         self.send_mail(subject, message)
-        if SLACK_WEBHOOK:
+        if self.data.get("slack_webhook"):
             requests_retry_session().post(
-                SLACK_WEBHOOK, json={"text": f"{subject}\n\n{message}"}
+                self.data.get("slack_webhook"), json={"text": f"{subject}\n\n{message}"}
             )
 
     def send_scrape_message(self):
