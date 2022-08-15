@@ -199,6 +199,10 @@ class Scraper(AddOn):
             )
 
     def send_scrape_message(self):
+        """Alert on all new documents"""
+        if not self.data.get("notify_all"):
+            return
+
         msg = []
         for site, docs in self.new_docs.items():
             if docs:

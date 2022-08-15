@@ -37,6 +37,9 @@ properties:
     default: 0
     minimum: 0
     maximum: 2
+  notify_all:
+    title: Notify on all new documents
+    type: boolean
 required:
   - site
   - project
