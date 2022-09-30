@@ -12,9 +12,10 @@ properties:
     description: The URL of the site to start scraping
   project:
     title: Project
-    type: number
+    type: string
     description: >-
-      The DocumentCloud project ID of the project the documents should be uploaded in to
+      The DocumentCloud project title or ID of the project the documents should
+      be uploaded to.  If the project title does not exist, it will be created.
   keywords:
     title: Keywords
     type: string

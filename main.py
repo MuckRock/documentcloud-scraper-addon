@@ -166,7 +166,7 @@ class Scraper(AddOn):
                     "file_url": d.fixed_url,
                     "source": f"Scraped from {site}",
                     "title": d.title,
-                    "projects": [self.data["project"]],
+                    "projects": [self.project],
                     "original_extension": d.extension,
                     "access": "public",
                 }
@@ -220,7 +220,7 @@ class Scraper(AddOn):
             if not keyword:
                 continue
             query = (
-                f"+project:{self.data['project']} {keyword} created_at:[NOW-1HOUR TO *]"
+                f"+project:{self.project} {keyword} created_at:[NOW-1HOUR TO *]"
             )
             documents = self.client.documents.search(query)
             documents = list(documents)
@@ -250,6 +250,14 @@ class Scraper(AddOn):
             for f in self.data.get("filetypes", ".pdf").split(",")
         ]
         self.total_new_doc_count = 0
+
+        project = self.data["project"]
+        # if project is an integer, use it as a project ID
+        try:
+            self.project = int(project)
+        except ValueError:
+            project, created = self.client.projects.get_or_create_by_title(project)
+            self.project = project.id
 
         self.site_data = self.load_event_data()
         if self.site_data is None:
