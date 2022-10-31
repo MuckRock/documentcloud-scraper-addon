@@ -176,6 +176,8 @@ class Scraper(AddOn):
             if not self.data.get("dry_run"):
                 resp = self.client.post("documents/", json=doc_group)
                 doc_ids.extend(d["id"] for d in resp.json())
+        # store event data here in case we time out, we don't repeat the same files next time
+        self.store_event_data(self.site_data)
         if self.data.get("filecoin") and doc_ids:
             self.client.post(
                 "addon_runs/",
