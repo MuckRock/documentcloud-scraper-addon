@@ -26,7 +26,7 @@ Click on your newly created project on the left-hand side of the screen, and not
 ![Screen Shot 2022-03-22 at 8 08 11 AM](https://user-images.githubusercontent.com/136939/159478630-c6cbcb24-308c-4b0e-a42c-f10cf2653836.png)
 
 ### 3) Run the Add-On from within DocumentCloud
-Click on the Add-Ons dropdown menu -> "Browse All Add-Ons" -> "RSS Document Fetcher" -> Click the inactive button to mark the Add-On as active and finally hit Done. Click on the Add-Ons dropdown menu once more and click on the RSS Document Fetcher which will now be active. 
+Click on the Add-Ons dropdown menu -> "Browse All Add-Ons" -> "Scraper" -> Click the inactive button to mark the Add-On as active and finally hit Done. Click on the Add-Ons dropdown menu once more and click on the Scraper which will now be active. 
 
 If succesful, the Add-On will grab all the documents it can pull from the site, load them into DocumentCloud, and then send you an email. It will now run hourly and will only alert you if it pulls new documents, with a second alert highlighting any documents that meet your key terms.
 
