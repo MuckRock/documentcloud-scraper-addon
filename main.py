@@ -76,6 +76,22 @@ class Document:
 
 
 class Scraper(AddOn):
+    def check_permissions(self):
+        """The user must be a verified journalist to upload a document"""
+        self.set_message("Checking permissions...")
+        user = self.client.users.get("me")
+        if not user.verified_journalist:
+            self.set_message(
+                "You need to be verified to use this add-on. Please verify your "
+                "account here: https://airtable.com/shrZrgdmuOwW0ZLPM"
+            )
+            self.send_mail(
+                "You must verify your account to use the Scraper Add-On",
+                "You need to be verified to use the scraper add-on. Please verify your "
+                "account here: https://airtable.com/shrZrgdmuOwW0ZLPM",
+            )
+            sys.exit(1)
+
     def check_crawl(self, url, content_type):
         # check if it is from the same site
         scheme, netloc, path, qs, anchor = urlparse.urlsplit(url)
@@ -225,9 +241,7 @@ class Scraper(AddOn):
         for keyword in self.data.get("keywords", "").split(","):
             if not keyword:
                 continue
-            query = (
-                f"+project:{self.project} {keyword} created_at:[NOW-1HOUR TO *]"
-            )
+            query = f"+project:{self.project} {keyword} created_at:[NOW-1HOUR TO *]"
             documents = self.client.documents.search(query)
             documents = list(documents)
             if documents:
@@ -246,6 +260,9 @@ class Scraper(AddOn):
                 )
 
     def main(self):
+
+        self.check_permissions()
+
         # grab the base of the URL to stay on site during crawling
         _scheme, netloc, _path, _qs, _anchor = urlparse.urlsplit(self.data["site"])
         self.base_netloc = netloc
