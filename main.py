@@ -114,7 +114,11 @@ class Scraper(AddOn):
         """Scrape the site for new documents"""
         print(f"Scraping {site} (depth {depth})")
         resp = requests_retry_session().get(site)
-        resp.raise_for_status()
+        if depth == 0:
+            resp.raise_for_status()
+        elif resp.status_code != 200:
+            print(f"{site} returned code {resp.status_code}")
+            return
         soup = BeautifulSoup(resp.text, "html.parser")
         docs = []
         sites = []
