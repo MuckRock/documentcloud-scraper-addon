@@ -18,7 +18,7 @@ from documentcloud.toolbox import grouper, requests_retry_session
 from ratelimit import limits, sleep_and_retry
 
 DOC_CUTOFF = 10
-MAX_NEW_DOCS = 1
+MAX_NEW_DOCS = 100
 FILECOIN_ID = 104
 
 
