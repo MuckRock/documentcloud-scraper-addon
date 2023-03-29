@@ -1,4 +1,4 @@
-python-documentcloud==3.0.6
+python-documentcloud==3.3.9
 requests
 beautifulsoup4
 ratelimit
