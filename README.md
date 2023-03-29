@@ -50,7 +50,7 @@ Click the inactive button to mark the Add-On as active and finally hit Done.
 Click on the Add-Ons dropdown menu once more and click on the Scraper which
 will now be active. 
 
-If succesful, the Add-On will grab all the documents it can pull from the site,
+If successful, the Add-On will grab all the documents it can pull from the site,
 load them into DocumentCloud, and then send you an email. It will now run
 hourly and will only alert you if it pulls new documents, with a second alert
 highlighting any documents that meet your key terms.
