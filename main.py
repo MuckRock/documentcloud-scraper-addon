@@ -188,7 +188,7 @@ class Scraper(AddOn):
                     "title": d.title,
                     "projects": [self.project],
                     "original_extension": d.extension,
-                    "access": "public",
+                    "access": self.access_level,
                 }
                 for d in doc_group
             ]
@@ -281,7 +281,8 @@ class Scraper(AddOn):
         except ValueError:
             project, created = self.client.projects.get_or_create_by_title(project)
             self.project = project.id
-
+        
+        self.access_level = self.data["access_level"]
         self.site_data = self.load_event_data()
         if self.site_data is None:
             self.site_data = {}
