@@ -26,6 +26,11 @@ properties:
     description: >-
       WARNING: This will push all scraped files to IPFS and Filecoin.  
       There is no way to remove files from these storage systems.
+  access_level:
+    title: Access Level
+    type: string
+    description: Access level (public, private, or organization) of documents scraped.
+    default: public
   #filetypes:
   #  title: File Types
   #  type: string
@@ -49,6 +54,7 @@ properties:
 required:
   - site
   - project
+  - access_level
 eventOptions:
   name: site
   events:
