@@ -54,7 +54,6 @@ properties:
 required:
   - site
   - project
-  - access_level
 eventOptions:
   name: site
   events:
