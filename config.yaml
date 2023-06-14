@@ -54,6 +54,8 @@ properties:
 required:
   - site
   - project
+categories:
+  - monitor
 eventOptions:
   name: site
   events:
