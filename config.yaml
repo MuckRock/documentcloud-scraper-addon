@@ -3,6 +3,7 @@ description: >-
   This add-on will scrape and optionally crawl a given site for documents to upload
   to DocumentCloud.  It can also alert you of given keywords appearing in those
   documents.
+instructions: ''
 type: object
 properties:
   site:
