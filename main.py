@@ -78,7 +78,7 @@ class Document:
 
 
 class Scraper(AddOn):
-    os.makedirs = "./out/"
+    os.makedirs("./out/")
     def check_permissions(self):
         """The user must be a verified journalist to upload a document"""
         self.set_message("Checking permissions...")
@@ -206,7 +206,7 @@ class Scraper(AddOn):
                 doc_ids.extend(d["id"] for d in resp.json())
 
         # Upload all of the uploadable Google Drive content
-        self.client.documents.upload_directory('./out', extensions=None)
+        self.client.documents.upload_directory('./out', extensions=None, projects=self.project, access=self.access_level)
 
         # store event data here in case we time out, we don't repeat the same files next time
         self.store_event_data(self.site_data)
