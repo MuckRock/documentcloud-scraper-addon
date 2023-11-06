@@ -148,7 +148,7 @@ class Scraper(AddOn):
                 continue
             full_href = urlparse.urljoin(resp.url, href)
 
-            if "GDRIVE_URL" in full_href:
+            if "GDRIVE_URL" in href:
                 self.set_message(f"Processing Google Drive URL: {full_href}")
                 if grab(full_href, self.download_directory):
                     self.set_message(f"Captured Google Drive file: {full_href}")
@@ -207,7 +207,7 @@ class Scraper(AddOn):
 
         # Upload all of the uploadable Google Drive content
         self.client.documents.upload_directory('./out', extensions=None)
-        
+
         # store event data here in case we time out, we don't repeat the same files next time
         self.store_event_data(self.site_data)
         if self.data.get("filecoin") and doc_ids:
