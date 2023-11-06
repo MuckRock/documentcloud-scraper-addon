@@ -20,7 +20,7 @@ from clouddl import GDRIVE_URL, grab
 
 
 DOC_CUTOFF = 10
-MAX_NEW_DOCS = 100
+MAX_NEW_DOCS = 50
 FILECOIN_ID = 104
 
 
