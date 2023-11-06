@@ -152,6 +152,9 @@ class Scraper(AddOn):
                 self.set_message(f"Processing Google Drive URL: {href}")
                 if grab(href, "./out"):
                     self.set_message(f"Captured Google Drive file: {href}")
+                    self.total_new_doc_count += 1
+                if self.total_new_doc_count >= MAX_NEW_DOCS:
+                    break
 
             if full_href not in self.site_data:
                 headers = self.get_headers(full_href)
