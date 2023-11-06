@@ -30,7 +30,6 @@ class Document:
     def __init__(self, url, headers):
         self.url = url
         self.headers = headers
-        self.download_directory = "./out/" 
 
     @property
     def title(self):
@@ -79,6 +78,7 @@ class Document:
 
 
 class Scraper(AddOn):
+    os.makedirs = "./out/"
     def check_permissions(self):
         """The user must be a verified journalist to upload a document"""
         self.set_message("Checking permissions...")
@@ -148,9 +148,9 @@ class Scraper(AddOn):
                 continue
             full_href = urlparse.urljoin(resp.url, href)
 
-            if "GDRIVE_URL" in href:
+            if GDRIVE_URL in href:
                 self.set_message(f"Processing Google Drive URL: {href}")
-                if grab(href, self.download_directory):
+                if grab(href, "./out"):
                     self.set_message(f"Captured Google Drive file: {href}")
 
             if full_href not in self.site_data:
@@ -206,7 +206,7 @@ class Scraper(AddOn):
                 doc_ids.extend(d["id"] for d in resp.json())
 
         # Upload all of the uploadable Google Drive content
-        self.client.documents.upload_directory(self.download_directory, extensions=None)
+        self.client.documents.upload_directory('./out', extensions=None)
 
         # store event data here in case we time out, we don't repeat the same files next time
         self.store_event_data(self.site_data)
