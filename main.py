@@ -16,6 +16,8 @@ from documentcloud.addon import AddOn
 from documentcloud.constants import BULK_LIMIT
 from documentcloud.toolbox import grouper, requests_retry_session
 from ratelimit import limits, sleep_and_retry
+from clouddl import GDRIVE_URL, grab
+
 
 DOC_CUTOFF = 10
 MAX_NEW_DOCS = 100
