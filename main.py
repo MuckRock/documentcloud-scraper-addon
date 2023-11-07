@@ -20,7 +20,8 @@ from clouddl import GDRIVE_URL, grab
 
 
 DOC_CUTOFF = 10
-MAX_NEW_DOCS = 50
+MAX_NEW_DOCS = 100
+MAX_NEW_GOOGLE_DOCS = 20
 FILECOIN_ID = 104
 
 
@@ -152,8 +153,8 @@ class Scraper(AddOn):
                 self.set_message(f"Processing Google Drive URL: {href}")
                 if grab(href, "./out"):
                     self.set_message(f"Captured Google Drive file: {href}")
-                    self.total_new_doc_count += 1
-                if self.total_new_doc_count >= MAX_NEW_DOCS:
+                    self.total_new_gdoc_count += 1
+                if self.total_new_doc_count >= MAX_NEW_GOOGLE_DOCS:
                     break
 
             if full_href not in self.site_data:
@@ -288,6 +289,7 @@ class Scraper(AddOn):
             for f in self.data.get("filetypes", ".pdf").split(",")
         ]
         self.total_new_doc_count = 0
+        self.total_new_gdoc_count = 0
 
         project = self.data["project"]
         # if project is an integer, use it as a project ID
