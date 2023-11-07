@@ -220,7 +220,7 @@ class Scraper(AddOn):
                 json={"addon": FILECOIN_ID, "parameters": {}, "documents": doc_ids},
             )
 
-        if self.total_new_doc_count >= MAX_NEW_DOCS:
+        if self.total_new_doc_count >= MAX_NEW_DOCS or  self.total_new_gdoc_count >= MAX_NEW_GOOGLE_DOCS:
             return
 
         # recurse on sites we want to crawl
