@@ -210,7 +210,7 @@ class Scraper(AddOn):
                 doc_ids.extend(d["id"] for d in resp.json())
 
         # Upload all of the uploadable Google Drive content
-        self.client.documents.upload_directory('./out', extensions=None, projects=self.project, access=self.access_level)
+        self.client.documents.upload_directory('./out', extensions=None, access=self.access_level, projects=[self.project])
 
         # store event data here in case we time out, we don't repeat the same files next time
         self.store_event_data(self.site_data)
