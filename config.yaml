@@ -1,8 +1,14 @@
 title: Scraper
-description: >-
+description: |
   This add-on will scrape and optionally crawl a given site for documents to upload
   to DocumentCloud.  It can also alert you of given keywords appearing in those
-  documents.
+  documents. 
+  
+  The Scraper Add-On now supports Google Drive links. 
+  It will upload the first 40 Google Drive documents it sees per run. 
+
+  Regular documents are limited at 100 per run.
+  
 instructions: ''
 type: object
 properties:
