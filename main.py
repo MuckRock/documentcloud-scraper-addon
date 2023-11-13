@@ -7,6 +7,7 @@ import cgi
 import json
 import mimetypes
 import os
+import sys
 import urllib.parse as urlparse
 from datetime import datetime
 
@@ -16,9 +17,12 @@ from documentcloud.addon import AddOn
 from documentcloud.constants import BULK_LIMIT
 from documentcloud.toolbox import grouper, requests_retry_session
 from ratelimit import limits, sleep_and_retry
+from clouddl import GDRIVE_URL, grab
+
 
 DOC_CUTOFF = 10
 MAX_NEW_DOCS = 100
+MAX_NEW_GOOGLE_DOCS = 30
 FILECOIN_ID = 104
 
 
@@ -76,6 +80,8 @@ class Document:
 
 
 class Scraper(AddOn):
+    os.makedirs("./out/")
+
     def check_permissions(self):
         """The user must be a verified journalist to upload a document"""
         self.set_message("Checking permissions...")
@@ -93,6 +99,7 @@ class Scraper(AddOn):
             sys.exit(1)
 
     def check_crawl(self, url, content_type):
+        """Checks crawl depth of the site"""
         # check if it is from the same site
         scheme, netloc, path, qs, anchor = urlparse.urlsplit(url)
         if netloc != self.base_netloc:
@@ -160,6 +167,21 @@ class Scraper(AddOn):
             content_type = self.get_content_type(headers)
             print("link", href, content_type)
             # if this is a document type, store it
+
+            if new:
+                if self.total_new_gdoc_count >= MAX_NEW_GOOGLE_DOCS:
+                        break
+                if GDRIVE_URL in full_href:
+                    self.set_message(f"Processing Google Drive URL: {full_href}")
+                    try:
+                        if grab(href, "./out"):
+                            self.set_message(f"Captured Google Drive file: {full_href}")
+                            self.total_new_gdoc_count += 1
+                    except: 
+                        # If there is gdrive site that fails to download, we can remove it from the seen list and move on. 
+                        self.site_data.pop(full_href)
+                        pass
+                
             if content_type in self.content_types:
                 # track when we first and last saw this document
                 # on this page
@@ -196,6 +218,12 @@ class Scraper(AddOn):
             if not self.data.get("dry_run"):
                 resp = self.client.post("documents/", json=doc_group)
                 doc_ids.extend(d["id"] for d in resp.json())
+
+        # Upload all of the uploadable Google Drive content
+        self.client.documents.upload_directory(
+            "./out", extensions=None, access=self.access_level, projects=[self.project]
+        )
+
         # store event data here in case we time out, we don't repeat the same files next time
         self.store_event_data(self.site_data)
         if self.data.get("filecoin") and doc_ids:
@@ -204,7 +232,10 @@ class Scraper(AddOn):
                 json={"addon": FILECOIN_ID, "parameters": {}, "documents": doc_ids},
             )
 
-        if self.total_new_doc_count >= MAX_NEW_DOCS:
+        if (
+            self.total_new_doc_count >= MAX_NEW_DOCS
+            or self.total_new_gdoc_count >= MAX_NEW_GOOGLE_DOCS
+        ):
             return
 
         # recurse on sites we want to crawl
@@ -260,7 +291,7 @@ class Scraper(AddOn):
                 )
 
     def main(self):
-
+        """Checks that you can run the Add-On, scrapes the site, sends alert"""
         self.check_permissions()
 
         # grab the base of the URL to stay on site during crawling
@@ -273,6 +304,7 @@ class Scraper(AddOn):
             for f in self.data.get("filetypes", ".pdf").split(",")
         ]
         self.total_new_doc_count = 0
+        self.total_new_gdoc_count = 0
 
         project = self.data["project"]
         # if project is an integer, use it as a project ID
@@ -281,11 +313,12 @@ class Scraper(AddOn):
         except ValueError:
             project, created = self.client.projects.get_or_create_by_title(project)
             self.project = project.id
-        
+
         self.access_level = self.data["access_level"]
         self.site_data = self.load_event_data()
         if self.site_data is None:
             self.site_data = {}
+        print(self.site_data) # testing
         self.set_message("Scraping the site...")
         self.scrape(self.data["site"])
         self.set_message("Scraping complete!")
