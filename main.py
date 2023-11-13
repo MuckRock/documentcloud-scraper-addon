@@ -318,6 +318,7 @@ class Scraper(AddOn):
         self.site_data = self.load_event_data()
         if self.site_data is None:
             self.site_data = {}
+        print(self.site_data) # testing
         self.set_message("Scraping the site...")
         self.scrape(self.data["site"])
         self.set_message("Scraping complete!")
