@@ -152,14 +152,6 @@ class Scraper(AddOn):
                 continue
             full_href = urlparse.urljoin(resp.url, href)
 
-            if GDRIVE_URL in href:
-                self.set_message(f"Processing Google Drive URL: {href}")
-                if grab(href, "./out"):
-                    self.set_message(f"Captured Google Drive file: {href}")
-                    self.total_new_gdoc_count += 1
-                if self.total_new_gdoc_count >= MAX_NEW_GOOGLE_DOCS:
-                    break
-
             if full_href not in self.site_data:
                 headers = self.get_headers(full_href)
                 self.site_data[full_href] = {"headers": headers, "first_seen": now}
@@ -175,6 +167,16 @@ class Scraper(AddOn):
             content_type = self.get_content_type(headers)
             print("link", href, content_type)
             # if this is a document type, store it
+
+            if new:
+                if GDRIVE_URL in full_href:
+                self.set_message(f"Processing Google Drive URL: {full_href}")
+                if grab(href, "./out"):
+                    self.set_message(f"Captured Google Drive file: {full_href}")
+                    self.total_new_gdoc_count += 1
+                if self.total_new_gdoc_count >= MAX_NEW_GOOGLE_DOCS:
+                    break
+                    
             if content_type in self.content_types:
                 # track when we first and last saw this document
                 # on this page
