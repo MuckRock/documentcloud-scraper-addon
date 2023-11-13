@@ -170,12 +170,12 @@ class Scraper(AddOn):
 
             if new:
                 if GDRIVE_URL in full_href:
-                self.set_message(f"Processing Google Drive URL: {full_href}")
-                if grab(href, "./out"):
-                    self.set_message(f"Captured Google Drive file: {full_href}")
-                    self.total_new_gdoc_count += 1
-                if self.total_new_gdoc_count >= MAX_NEW_GOOGLE_DOCS:
-                    break
+                    self.set_message(f"Processing Google Drive URL: {full_href}")
+                    if grab(href, "./out"):
+                        self.set_message(f"Captured Google Drive file: {full_href}")
+                        self.total_new_gdoc_count += 1
+                    if self.total_new_gdoc_count >= MAX_NEW_GOOGLE_DOCS:
+                        break
                     
             if content_type in self.content_types:
                 # track when we first and last saw this document
