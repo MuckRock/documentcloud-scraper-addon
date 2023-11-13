@@ -169,14 +169,19 @@ class Scraper(AddOn):
             # if this is a document type, store it
 
             if new:
+                if self.total_new_gdoc_count >= MAX_NEW_GOOGLE_DOCS:
+                        break
                 if GDRIVE_URL in full_href:
                     self.set_message(f"Processing Google Drive URL: {full_href}")
-                    if grab(href, "./out"):
-                        self.set_message(f"Captured Google Drive file: {full_href}")
-                        self.total_new_gdoc_count += 1
-                    if self.total_new_gdoc_count >= MAX_NEW_GOOGLE_DOCS:
-                        break
-                    
+                    try:
+                        if grab(href, "./out"):
+                            self.set_message(f"Captured Google Drive file: {full_href}")
+                            self.total_new_gdoc_count += 1
+                    except: 
+                        # If there is gdrive site that fails to download, we can remove it from the seen list and move on. 
+                        self.site_data.pop(full_href)
+                        pass
+                
             if content_type in self.content_types:
                 # track when we first and last saw this document
                 # on this page
