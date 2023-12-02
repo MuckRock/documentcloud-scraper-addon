@@ -221,7 +221,7 @@ class Scraper(AddOn):
 
         # Upload all of the uploadable Google Drive content
         self.client.documents.upload_directory(
-            "./out", extensions=None, access=self.access_level, projects=[self.project]
+            "./out", access=self.access_level, projects=[self.project]
         )
 
         # store event data here in case we time out, we don't repeat the same files next time
