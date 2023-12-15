@@ -1,7 +1,5 @@
 title: Scraper
-description: |
-  Scrape and optionally crawl a given site for documents to upload
-  to DocumentCloud.  
+description: 'Scrape and optionally crawl a given site for documents to upload to DocumentCloud.'
 instructions: |
   You may specify a project to scrape the documents into as well as an access level. 
   Scraper can alert you by email or Slack notification when given keywords appear in
