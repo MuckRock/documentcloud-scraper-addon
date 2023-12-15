@@ -1,15 +1,23 @@
 title: Scraper
 description: |
-  This add-on will scrape and optionally crawl a given site for documents to upload
-  to DocumentCloud.  It can also alert you of given keywords appearing in those
-  documents. 
+  Scrape and optionally crawl a given site for documents to upload
+  to DocumentCloud.  
+instructions: |
+  You may specify a project to scrape the documents into as well as an access level. 
+  Scraper can alert you by email or Slack notification when given keywords appear in
+  documents if you specify keywords to monitor. For Slack notifications, you must provide a webhook. 
   
+  The crawl depth is a parameter that tells the Scraper how many clicks deep away from the
+  site you specify in order to continue looking for documents. 
+  If the PDFs are directly linked on the site you provide 
+  (1 click to get to the PDF), 0 is the crawl depth you should use. 
+  If the site you provide a link to contains multiple links to other pages that have PDFs linked to those pages, 
+  your crawl depth would be 1. A crawl depth of 2 is the maximum supported. 
+
   The Scraper Add-On now supports Google Drive links. 
   It will upload the first 30 Google Drive documents it sees per run. 
-
-  Regular documents are limited at 100 per run.
-  
-instructions: ''
+  Scraper will upload the first 100 regular documents it sees per run. 
+  The Scraper keeps track of which documents it has seen and already uploaded.
 type: object
 properties:
   site:
