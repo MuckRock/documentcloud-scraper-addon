@@ -24,7 +24,7 @@ DOC_CUTOFF = 10
 MAX_NEW_DOCS = 100
 MAX_NEW_GOOGLE_DOCS = 30
 FILECOIN_ID = 104
-
+HEADER = {'User-Agent': 'DocumentCloud Scraper Add-On: Contact us at info@documentcloud.org'}
 
 class Document:
     """Class to hold information about scraped documents"""
@@ -118,7 +118,7 @@ class Scraper(AddOn):
         if scheme not in ["http", "https"]:
             return {"content-type": None, "content-disposition": None}
         try:
-            resp = requests_retry_session().head(url, allow_redirects=True, timeout=10)
+            resp = requests_retry_session().head(url, allow_redirects=True, timeout=10, headers=HEADER)
         except requests.exceptions.RequestException:
             return {"content-type": None, "content-disposition": None}
         return {
@@ -136,7 +136,7 @@ class Scraper(AddOn):
     def scrape(self, site, depth=0):
         """Scrape the site for new documents"""
         print(f"Scraping {site} (depth {depth})")
-        resp = requests_retry_session().get(site)
+        resp = requests_retry_session().get(site, headers=HEADER)
         if depth == 0:
             resp.raise_for_status()
         elif resp.status_code != 200:
