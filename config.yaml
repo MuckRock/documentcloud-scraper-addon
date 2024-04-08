@@ -71,6 +71,11 @@ properties:
 required:
   - site
   - project
+advanced:
+  - keywords
+  - crawl_depth
+  - slack_webhook
+  - filecoin
 categories:
   - monitor
 eventOptions:
