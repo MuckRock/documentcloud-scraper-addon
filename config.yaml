@@ -73,7 +73,7 @@ required:
   - project
 categories:
   - monitor
-footer: |
+custom_disabled_email_footer: |
   The Scraper Add-On may fail for many reasons. 
   A few reasons it might fail are that a site may rely heavily on Javascript to interact with the page, 
   the site may have bugs with HTTPS support on their site, or the site obfuscates where the documents that are downloaded are located. 
