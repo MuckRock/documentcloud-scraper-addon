@@ -77,7 +77,7 @@ custom_disabled_email_footer: |
   The Scraper Add-On may fail for many reasons. 
   A few reasons it might fail are that a site may rely heavily on Javascript to interact with the page, 
   the site may have bugs with HTTPS support on their site, or the site obfuscates where the documents that are downloaded are located. 
-  This a sample footer for customized Add-On disable emails. 
+  This a sample footer for customized Add-On disable emails. Read more about <a href="https://www.documentcloud.org/help/add-ons/">DocumentCloud Add-Ons</a>. 
 eventOptions:
   name: site
   events:
