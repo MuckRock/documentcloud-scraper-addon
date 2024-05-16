@@ -74,10 +74,7 @@ required:
 categories:
   - monitor
 custom_disabled_email_footer: |
-  The Scraper Add-On may fail for many reasons. 
-  A few reasons it might fail are that a site may rely heavily on Javascript to interact with the page, 
-  the site may have bugs with HTTPS support on their site, or the site obfuscates where the documents that are downloaded are located. 
-  This a sample footer for customized Add-On disable emails. Read more about DocumentCloud Add-Ons: https://documentcloud.org/help/faq
+  Read about some of the reasons why the Scraper Add-On fails in our guide: https://muckrock.notion.site/Common-reasons-the-Scraper-Add-On-fails-ecd09d1b2e254fee9ff01fad293b61c3?pvs=74
 eventOptions:
   name: site
   events:
