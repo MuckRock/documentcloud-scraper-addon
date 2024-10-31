@@ -4,7 +4,6 @@ This add-on will monitor a website for documents and upload them to your Documen
 
 
 import cgi
-import json
 import mimetypes
 import os
 import sys
@@ -24,7 +23,10 @@ DOC_CUTOFF = 10
 MAX_NEW_DOCS = 100
 MAX_NEW_GOOGLE_DOCS = 30
 FILECOIN_ID = 104
-HEADER = {'User-Agent': 'DocumentCloud Scraper Add-On: Contact us at info@documentcloud.org'}
+HEADER = {
+    "User-Agent": "DocumentCloud Scraper Add-On: Contact us at info@documentcloud.org"
+}
+
 
 class Document:
     """Class to hold information about scraped documents"""
@@ -35,12 +37,14 @@ class Document:
 
     @property
     def title(self):
+        """ Grabs title """
         title = self.title_from_headers()
         if title:
             return title
         return self.title_from_url()
 
     def title_from_headers(self):
+        """ Grabs title from headers """
         if self.headers["content-disposition"] is None:
             return ""
         _, params = cgi.parse_header(self.headers["content-disposition"])
@@ -60,6 +64,7 @@ class Document:
 
     @property
     def extension(self):
+        """ Grabs extension type from url """
         if self.headers["content-type"] is None:
             return "pdf"
         content_type = cgi.parse_header(self.headers["content-type"])[0]
@@ -80,7 +85,21 @@ class Document:
 
 
 class Scraper(AddOn):
-    os.makedirs("./out/")
+    """ DocumentCloud Scraper Add-On class """
+
+    def __init__(self):
+        super().__init__()
+        self.base_netloc = None
+        self.seen = set()
+        self.new_docs = {}
+        self.content_types = []
+        self.total_new_doc_count = 0
+        self.total_new_gdoc_count = 0
+        self.project = None
+        self.access_level = None
+        self.site_data = {}
+
+        os.makedirs("./out/", exist_ok=True)  # Ensure the directory exists
 
     def check_permissions(self):
         """The user must be a verified journalist to upload a document"""
@@ -89,19 +108,14 @@ class Scraper(AddOn):
         if not user.verified_journalist:
             self.set_message(
                 "You need to be verified to use this add-on. Please verify your "
-                "account here: https://airtable.com/shrZrgdmuOwW0ZLPM"
-            )
-            self.send_mail(
-                "You must verify your account to use the Scraper Add-On",
-                "You need to be verified to use the scraper add-on. Please verify your "
-                "account here: https://airtable.com/shrZrgdmuOwW0ZLPM",
+                "account."
             )
             sys.exit(1)
 
     def check_crawl(self, url, content_type):
         """Checks crawl depth of the site"""
         # check if it is from the same site
-        scheme, netloc, path, qs, anchor = urlparse.urlsplit(url)
+        _, netloc,_ = urlparse.urlsplit(url)
         if netloc != self.base_netloc:
             return False
         # do not crawl the same site more than once
@@ -113,20 +127,25 @@ class Scraper(AddOn):
     @sleep_and_retry
     @limits(calls=5, period=1)
     def get_headers(self, url):
+        """ Gets response headers from a url """
         print("getting headers", url)
-        scheme, netloc, path, qs, anchor = urlparse.urlsplit(url)
+        scheme, _ = urlparse.urlsplit(url)
         if scheme not in ["http", "https"]:
-            return {"content-type": None, "content-disposition": None}
+            return {"content-type": None, "content-disposition": None, "etag": None}
         try:
-            resp = requests_retry_session().head(url, allow_redirects=True, timeout=10, headers=HEADER)
+            resp = requests_retry_session().head(
+                url, allow_redirects=True, timeout=10, headers=HEADER
+            )
         except requests.exceptions.RequestException:
-            return {"content-type": None, "content-disposition": None}
+            return {"content-type": None, "content-disposition": None, "etag": None}
         return {
             "content-type": resp.headers.get("content-type"),
             "content-disposition": resp.headers.get("content-disposition"),
+            "etag": resp.headers.get("etag"),
         }
 
     def get_content_type(self, headers):
+        """ Gets content type from headers from the site """
         if headers["content-type"] is None:
             return ""
         return cgi.parse_header(headers["content-type"])[0]
@@ -146,6 +165,7 @@ class Scraper(AddOn):
         docs = []
         sites = []
         now = datetime.now().isoformat()
+        new = False
         for link in soup.find_all("a"):
             href = link.get("href")
             if href is None:
@@ -161,27 +181,30 @@ class Scraper(AddOn):
                 if not headers:
                     headers = self.get_headers(full_href)
                     self.site_data[full_href]["headers"] = headers
-                new = False
+                else:
+                    current_etag = headers.get("etag")
+                    previous_etag = self.site_data[full_href].get("etag")
+                    if previous_etag != current_etag and current_etag is not None:
+                        self.site_data[full_href]["etag"] = current_etag
+                        new = True
             self.site_data[full_href]["last_seen"] = now
 
             content_type = self.get_content_type(headers)
             print("link", href, content_type)
             # if this is a document type, store it
-
             if new:
                 if self.total_new_gdoc_count >= MAX_NEW_GOOGLE_DOCS:
-                        break
+                    break
                 if GDRIVE_URL in full_href:
                     self.set_message(f"Processing Google Drive URL: {full_href}")
                     try:
                         if grab(href, "./out"):
                             self.set_message(f"Captured Google Drive file: {full_href}")
                             self.total_new_gdoc_count += 1
-                    except: 
-                        # If there is gdrive site that fails to download, we can remove it from the seen list and move on. 
+                    except:
+                        # If there is gdrive site that fails to download,
+                        # we can remove it from the seen list and move on.
                         self.site_data.pop(full_href)
-                        pass
-                
             if content_type in self.content_types:
                 # track when we first and last saw this document
                 # on this page
