@@ -115,7 +115,7 @@ class Scraper(AddOn):
     def check_crawl(self, url, content_type):
         """Checks crawl depth of the site"""
         # check if it is from the same site
-        _, netloc,_ = urlparse.urlsplit(url)
+        _, netloc,_, _, _  = urlparse.urlsplit(url)
         if netloc != self.base_netloc:
             return False
         # do not crawl the same site more than once
@@ -129,7 +129,7 @@ class Scraper(AddOn):
     def get_headers(self, url):
         """ Gets response headers from a url """
         print("getting headers", url)
-        scheme, _ = urlparse.urlsplit(url)
+        scheme, _, _, _,_ = urlparse.urlsplit(url)
         if scheme not in ["http", "https"]:
             return {"content-type": None, "content-disposition": None, "etag": None}
         try:
