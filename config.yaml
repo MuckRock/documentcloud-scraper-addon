@@ -78,6 +78,8 @@ advanced:
   - filecoin
 categories:
   - monitor
+custom_disabled_email_footer: |
+  Read about some of the reasons why the Scraper Add-On fails in our guide: https://muckrock.notion.site/Common-reasons-the-Scraper-Add-On-fails-ecd09d1b2e254fee9ff01fad293b61c3?pvs=74
 eventOptions:
   name: site
   events:
