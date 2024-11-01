@@ -165,8 +165,9 @@ class Scraper(AddOn):
         docs = []
         sites = []
         now = datetime.now().isoformat()
-        new = False
+        
         for link in soup.find_all("a"):
+            new = False
             href = link.get("href")
             if href is None:
                 continue
