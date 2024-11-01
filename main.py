@@ -184,8 +184,11 @@ class Scraper(AddOn):
                     self.site_data[full_href]["headers"] = headers
                 else:
                     current_etag = headers.get("etag")
+                    print(f"Current etag: {current_tag}")
                     previous_etag = self.site_data[full_href].get("etag")
+                    print(f"Previous etag: {previous_tag}")
                     if previous_etag != current_etag and current_etag is not None:
+                        print("Etag updated, scraping new document")
                         self.site_data[full_href]["etag"] = current_etag
                         new = True
             self.site_data[full_href]["last_seen"] = now
