@@ -154,6 +154,7 @@ class Scraper(AddOn):
     @limits(calls=5, period=1)
     def scrape(self, site, depth=0):
         """Scrape the site for new documents"""
+        print(self.site_data)
         print(f"Scraping {site} (depth {depth})")
         resp = requests_retry_session().get(site, headers=HEADER)
         if depth == 0:
@@ -188,9 +189,9 @@ class Scraper(AddOn):
                     previous_etag = self.site_data[full_href].get("etag")
                     print(f"Previous etag: {previous_etag}")
                     if previous_etag != current_etag and current_etag is not None:
-                        print("Etag updated, scraping new document")
-                        self.site_data[full_href]["etag"] = current_etag
+                        print("Etag updated")
                         new = True
+            self.site_data[full_href]["etag"] = current_etag
             self.site_data[full_href]["last_seen"] = now
 
             content_type = self.get_content_type(headers)
