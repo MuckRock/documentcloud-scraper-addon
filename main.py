@@ -165,7 +165,7 @@ class Scraper(AddOn):
         docs = []
         sites = []
         now = datetime.now().isoformat()
-        
+
         for link in soup.find_all("a"):
             new = False
             href = link.get("href")
@@ -184,9 +184,9 @@ class Scraper(AddOn):
                     self.site_data[full_href]["headers"] = headers
                 else:
                     current_etag = headers.get("etag")
-                    print(f"Current etag: {current_tag}")
+                    print(f"Current etag: {current_etag}")
                     previous_etag = self.site_data[full_href].get("etag")
-                    print(f"Previous etag: {previous_tag}")
+                    print(f"Previous etag: {previous_etag}")
                     if previous_etag != current_etag and current_etag is not None:
                         print("Etag updated, scraping new document")
                         self.site_data[full_href]["etag"] = current_etag
