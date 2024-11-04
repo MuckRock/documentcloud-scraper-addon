@@ -179,19 +179,15 @@ class Scraper(AddOn):
                 self.site_data[full_href] = {"headers": headers, "first_seen": now}
                 new = True
             else:
-                headers = self.site_data[full_href].get("headers")
-                if not headers:
-                    headers = self.get_headers(full_href)
+                headers = self.get_headers(full_href)
+                current_etag = headers.get("etag")
+                print(f"Current etag: {current_etag}")
+                previous_etag = self.site_data[full_href]["headers"].get("etag")
+                print(f"Previous etag: {previous_etag}")
+                if previous_etag != current_etag and current_etag is not None:
+                    print("Etag updated")
                     self.site_data[full_href]["headers"] = headers
-                else:
-                    current_etag = headers.get("etag")
-                    print(f"Current etag: {current_etag}")
-                    previous_etag = self.site_data[full_href]["headers"].get("etag")
-                    print(f"Previous etag: {previous_etag}")
-                    if previous_etag != current_etag and current_etag is not None:
-                        print("Etag updated")
-                        self.site_data[full_href]["headers"]["etag"] = current_etag
-                        new = True
+                    new = True
             self.site_data[full_href]["last_seen"] = now
 
             content_type = self.get_content_type(headers)
