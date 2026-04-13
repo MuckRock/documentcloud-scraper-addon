@@ -317,7 +317,7 @@ class Scraper(AddOn):
     def main(self):
         """Checks that you can run the Add-On, scrapes the site, sends alert"""
         self.check_permissions()
-
+        self.client.session.headers.update({'User-Agent': 'DC Scraper Add-On'})
         # grab the base of the URL to stay on site during crawling
         _scheme, netloc, _path, _qs, _anchor = urlparse.urlsplit(self.data["site"])
         self.base_netloc = netloc
