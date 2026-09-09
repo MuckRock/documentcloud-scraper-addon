@@ -9,4 +9,4 @@ on:
 
 jobs:
   Update-Config:
-    uses: MuckRock/documentcloud-addon-workflows/.github/workflows/update-config.yml@v1
+    uses: MuckRock/documentcloud-addon-workflows/.github/workflows/update-config.yml@v2
