@@ -8,5 +8,5 @@ jobs:
     with:
       timeout: 20
       python-version: 3.12
-      secrets:
-       wg_config: ${{ secrets.WG_CONFIG }}
+    secrets:
+      wg_config: ${{ secrets.WG_CONFIG }}
