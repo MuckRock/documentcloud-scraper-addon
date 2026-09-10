@@ -1,5 +1,6 @@
-python-documentcloud==3.7.1
+python-documentcloud==4.8.1
 requests
 beautifulsoup4
 ratelimit
 clouddl
+python-squarelet==0.6.0

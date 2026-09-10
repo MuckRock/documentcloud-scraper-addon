@@ -4,6 +4,9 @@ on: repository_dispatch
 
 jobs:
   Run-Add-On:
-    uses: MuckRock/documentcloud-addon-workflows/.github/workflows/run-addon.yml@v1
+    uses: MuckRock/documentcloud-addon-workflows/.github/workflows/run-addon.yml@v2
     with:
       timeout: 20
+      python-version: 3.12
+    secrets:
+      wg_config: ${{ secrets.WG_CONFIG }}
